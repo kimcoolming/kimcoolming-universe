@@ -1,1 +1,0 @@
-import{_ as r,r as e,c as n,o as s,w as t,a as _,m as d}from"./index-B3NLLMLs.js";const f={};function l(a,u){const o=e("v-card-text"),c=e("v-card");return s(),n(c,{variant:"flat"},{default:t(()=>[_(o,null,{default:t(()=>[d(a.$slots,"default",{},void 0,!0)]),_:3})]),_:3})}const m=r(f,[["render",l],["__scopeId","data-v-fafef88e"]]);export{m as B};
