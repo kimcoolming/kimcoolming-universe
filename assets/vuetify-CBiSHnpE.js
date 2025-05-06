@@ -1,4 +1,4 @@
-import{_ as M}from"./PageTitlebar-CxHHxOLQ.js";import{_ as m}from"./BodyMaincard-CbkSS6oE.js";import{C as _}from"./CodeBlock-IcR0L_kO.js";import{e as T,s as L,c as x,w as e,r as o,o as a,a as t,g as r,F as f,i as p,b as D,d as i,t as v}from"./index-D3o1Qzlu.js";const N={class:"desc-list"},B=`<template>
+import{_ as M}from"./PageTitlebar-zLTeeOIR.js";import{_ as m}from"./BodyMaincard-C_A-ZhVm.js";import{C as _}from"./CodeBlock-BXl98Dg_.js";import{e as T,s as L,c as x,w as e,r as o,o as a,a as t,g as r,F as f,i as p,b as D,d as i,t as v}from"./index-B01RM12k.js";const N={class:"desc-list"},B=`<template>
   <div>Hello</div>
 </template>
 

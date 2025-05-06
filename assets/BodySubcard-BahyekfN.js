@@ -1,1 +1,0 @@
-import{_ as r,r as e,c as n,o as s,w as t,a as _,p as d}from"./index-D3o1Qzlu.js";const f={};function l(a,p){const o=e("v-card-text"),c=e("v-card");return s(),n(c,{variant:"flat"},{default:t(()=>[_(o,null,{default:t(()=>[d(a.$slots,"default",{},void 0,!0)]),_:3})]),_:3})}const v=r(f,[["render",l],["__scopeId","data-v-fafef88e"]]);export{v as B};
