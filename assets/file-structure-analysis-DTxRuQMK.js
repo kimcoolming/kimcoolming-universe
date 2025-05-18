@@ -1,0 +1,1 @@
+import{_ as s}from"./BaseBreadcrumb-CujF5b_1.js";import{e as t,b as r,a as e,F as l,o as n}from"./index-Cqf29U-D.js";const p={__name:"file-structure-analysis",setup(o){return(u,a)=>(n(),t(l,null,[r(s),a[0]||(a[0]=e("div",{class:"pa-4"},[e("h1",null,"CDN vs Vue CLI vs Vite 프로젝트 시작하기"),e("p",null,"이 페이지는 Vue 프로젝트의 시작 방식 비교를 안내합니다.")],-1))],64))}};export{p as default};

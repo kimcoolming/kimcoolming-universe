@@ -1,0 +1,1 @@
+import{_ as s}from"./BaseBreadcrumb-CujF5b_1.js";import{e as t,b as o,a as e,F as r,o as n}from"./index-Cqf29U-D.js";const _={__name:"responsive-layout",setup(l){return(p,a)=>(n(),t(r,null,[o(s),a[0]||(a[0]=e("div",{class:"pa-4"},[e("h1",null,"CDN vs Vue CLI vs Vite 프로젝트 시작하기"),e("p",null,"이 페이지는 Vue 프로젝트의 시작 방식 비교를 안내합니다.")],-1))],64))}};export{_ as default};
